@@ -10,7 +10,7 @@ Need to install the following packages:
   create-react-app
 Ok to proceed? (y)
 
-Enter <strong>y</strong>
+Enter `y`
 
 ```
 cd react-portfolio-site
