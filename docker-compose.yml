@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+ react:
+   build:
+     context: .
+     dockerfile: Dockerfile
+   volumes:
+     - ./:/src
+   command: sh -c "cd react-portfolio-site && yarn start"
+   ports:
+     - "3000:3000"
+   tty: true
