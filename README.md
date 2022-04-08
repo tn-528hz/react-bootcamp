@@ -19,3 +19,5 @@ cd react-portfolio-site
 ```
 npm start
 ```
+
+Click link http://localhost:3000
